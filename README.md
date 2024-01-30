@@ -11,6 +11,6 @@ VsCode
 CSS
 JavaScript React
 GitBash
- <span> Créditos Deste Projeto para  </span>
+ <span> Créditos Deste Projeto para  [Alura](https://www.alura.com.br/)   e Todos que Contribuem</div> </span>
 
-   [Alura](https://www.alura.com.br/)   e Todos que Contribuem</div>
+  
