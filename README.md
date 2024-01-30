@@ -1,5 +1,5 @@
 # <h1 align="center"> spotify-Alura </h1>
- Imersão Front-end Alura- Spotify <img alt="logo" src=".github/spotify.png" width="100vh">
+ Imersão Front-end Alura- Spotify <img alt="logo" src=".github/spotify.png" width="30vh">
  ## 💻 Projeto
 
 <p align="center">Este é um projeto da página inicial do Spotify da imersão front-end da Alura</p>
