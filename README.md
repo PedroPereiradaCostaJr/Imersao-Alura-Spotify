@@ -4,7 +4,7 @@
 <p align="center">Este é um projeto da página inicial do Spotify na imersão front-end da Alura 2024</p>
  
 ## 🚀 Tecnologias
-<p align="center">O projeto foi desenvolvido com as seguintes tecnologias: </p>
+<p>O projeto foi desenvolvido com as seguintes tecnologias: </p>
 
 - HTML
 - Github/
