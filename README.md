@@ -1,11 +1,10 @@
-# <h1 align="center"> spotify-Alura </h1>
- Imersão Front-end Alura- Spotify 
+# <h1 align="center"> Imersão Alura - Spotify <img alt="logo" src=".github/spotify.png" width="30vh"></h1>
  ## 💻 Projeto
 
-<p align="center">Este é um projeto da página inicial do Spotify da imersão front-end da Alura</p>
+<p align="center">Este é um projeto da página inicial do Spotify na imersão front-end da Alura 2024</p>
  
 ## 🚀 Tecnologias
-<p align="center">Esse projeto foi desenvolvido na semana de imersão front-end da Alura com as seguintes tecnologias: </p>
+<p>O projeto foi desenvolvido com as seguintes tecnologias: </p>
 
 - HTML
 - Github/
@@ -14,6 +13,7 @@
 - CSS
 - JavaScript React
 - GitBash
+  
  <span> Créditos Deste Projeto para  [Alura](https://www.alura.com.br/)   e Todos que Contribuem</div> </span>
 
   
