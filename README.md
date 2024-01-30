@@ -1,6 +1,7 @@
 # <h1 align="center"> spotify-Alura </h1>
- Imersão Front-end Alura- Spotify :spotify:
-## 💻 Projeto
+ Imersão Front-end Alura- Spotify 
+ ## 💻 Projeto
+
 <p align="center">Este é um projeto da página inicial do Spotify da imersão front-end da Alura</p>
  
 ## 🚀 Tecnologias
